@@ -20,8 +20,9 @@
     update customer set middleName = 'NONE' where MiddleName is NULL;
 
 `IS NULL` the value = NULL
+
 select * from customers where state `=` 'NULL';
 `= 'NULL'` the value = = 'NULL'
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4MjM0MzU4XX0=
+eyJoaXN0b3J5IjpbOTg1Nzg0MTY0LDcxODIzNDM1OF19
 -->
